@@ -46,7 +46,7 @@ npm install
 # 3. Start the development server
 npm run dev
 
-# 4. Open in your browser
+# 4. Open in your browser (optional: edit port at settings.json)
 # Visit: http://localhost:5173
 ```
 
