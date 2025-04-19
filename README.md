@@ -112,3 +112,5 @@ Feel free to reach out for feedback, collaboration, or questions:
 ---
 
 Enjoy using **CV-Craft-AI** to build your perfect resume! 🎉
+**Don't forget to start!** 😄
+Don't forget to start! 😄
