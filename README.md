@@ -3,7 +3,7 @@
 A sleek **CV creation web app** built with **React**, **TypeScript**, and **Vite**. Design, preview, and download professional resumes in real time — all within a clean, modular interface that works great on any device.
 
 ## 🌐 Live Demo  
-🔗 <a href="https://lively-frangipane-8dc88b.netlify.app" target="_blank" rel="noopener noreferrer">professional-cv-creator.netlify.app</a>
+🔗 [professional-cv-creator.netlify.app](https://lively-frangipane-8dc88b.netlify.app)
 
 ---
 
