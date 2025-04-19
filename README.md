@@ -66,6 +66,21 @@ npm run build
 
 ---
 
+## 📌 Roadmap
+
+- [x] Real-time CV editing with live preview  
+- [x] Downloadable PDF with basic formatting  
+- [x] Copy CV as plain text  
+- [ ] Add AI-powered text enhancer for CV content  
+- [ ] Introduce multiple professional design themes  
+- [ ] Integrate with **secret site** to send CV + message in one click
+- [ ] Add cover letter builder  
+- [ ] Drag-and-drop layout customization  
+
+---
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how to get started:
