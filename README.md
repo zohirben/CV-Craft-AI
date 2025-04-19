@@ -111,4 +111,4 @@ Feel free to reach out for feedback, collaboration, or questions:
 
 ---
 
-Enjoy using the **Professional CV Creator**! 🎉
+Enjoy using **CV-Craft-AI** to build your perfect resume! 🎉
